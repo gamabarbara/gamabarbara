@@ -1,11 +1,8 @@
 ## Olá! Eu sou a Bárbara Gama!
 
-- 🔭 Estou em transição de carreira.
-- ♨️ Aprendendo linguagens como: CSS, HTML, Javascript, Java, Angular e MySQL.
-- 🌱 Estudo na SoulCode Academy
-- 👯 Curso um bootcamp de Java Full Stack
+- 🔭 Desenvolvedora Fullstack Java/Angular
+- ♨️ Cursando Engenharia de Software na Unopar 3/7
 - 📫 Contate-me no email: barbara.cp@outlook.com
-- ⚡ Fun fact: Tenho meu próprio negócio e sou costureira/modelista <3
 
 <div align="center">
   <a href="https://github.com/gamabarbara">
