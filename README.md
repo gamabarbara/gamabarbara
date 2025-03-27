@@ -1,7 +1,7 @@
 ## Olá! Eu sou a Bárbara Gama!
 
 - 🔭 Desenvolvedora Fullstack Java/Angular
-- ♨️ Cursando Engenharia de Software na Unopar 3/7
+- ♨️ Cursando Engenharia de Software na Unopar 6/7
 - 📫 Contate-me no email: barbara.cp@outlook.com
 
 <div align="center">
